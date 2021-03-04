@@ -8,9 +8,8 @@
 
 **В результате тестирования выявлены следующие дефекты:**
 
-1. https://github.com/OlegDasheev/java-DZ-1.1/issues/1
-1. https://github.com/OlegDasheev/java-DZ-1.1/issues/2
-1. https://github.com/OlegDasheev/java-DZ-1.1/issues/3
+1. [При вводе валидного значения в приложении KeyValidator выходит Fail](https://github.com/OlegDasheev/java-DZ-1.1/issues/1)
+1. [При вводе невалидного значения в приложении java KeyValidator выходит Ок](https://github.com/OlegDasheev/java-DZ-1.1/issues/3)
 
 **Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты**:
